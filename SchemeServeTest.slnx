@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SchemeServeTest.Service.Tests/SchemeServeTest.Service.Tests.csproj" />
+  <Project Path="SchemeServeTest/SchemeServeTest.Service.csproj" />
+</Solution>
